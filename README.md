@@ -9,9 +9,7 @@ This assignment involves analyzing player statistics from a CSV file using Pytho
 2. Attributes
 
 df
-
 data
- 
 player_col
   
 season_col
