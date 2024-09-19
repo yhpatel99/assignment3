@@ -7,7 +7,8 @@ This assignment involves analyzing player statistics from a CSV file using Pytho
      This class is responsible for loading the data, cleaning it, calculating metrics, and identifying the top 100 players based on various performance metrics. 
  
 2. Attributes
-  df
+
+df
   data
   player_col
   season_col
@@ -23,7 +24,7 @@ This assignment involves analyzing player statistics from a CSV file using Pytho
   gp_col
   stl_col
 
-3. Methods
+4. Methods
 
 __init__(self, csv_file): Initializes the class by loading the CSV file and cleaning the data.
 calculate_metrics(self): Calculates various performance metrics.
