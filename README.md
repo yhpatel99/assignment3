@@ -19,16 +19,27 @@ This assignment involves analyzing player statistics from a CSV file using Pytho
   season_col
 
   fgm_col
+  
   fga_col
+  
   three_pm_col
+  
   three_pa_col
+  
   ftm_col
+  
   fta_col
+  
   pts_col
+  
   min_col
+  
   blk_col
+  
   gp_col
+  
   stl_col
+  
 
 4. Methods
 
