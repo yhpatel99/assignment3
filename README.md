@@ -3,16 +3,21 @@
 This assignment involves analyzing player statistics from a CSV file using Python. The primary objectives are to load the data into NumPy arrays, perform data manipulation, and calculate various performance metrics for players
 
 1. Class Design and Implementation
-  Class: PlayerStatsAnalyzer
-     This class is responsible for loading the data, cleaning it, calculating metrics, and identifying the top 100 players based on various performance metrics. 
+
+    Class: PlayerStatsAnalyzer
+
+   This class is responsible for loading the data, cleaning it, calculating metrics, and identifying the top 100 players based on various performance metrics. 
  
 2. Attributes
 
-df
-data
-player_col
+  df
+
+  data
+
+  player_col
   
-season_col
+  season_col
+
   fgm_col
   fga_col
   three_pm_col
