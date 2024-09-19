@@ -41,11 +41,14 @@ This assignment involves analyzing player statistics from a CSV file using Pytho
   stl_col
   
 
-4. Methods
+3. Methods
 
 __init__(self, csv_file): Initializes the class by loading the CSV file and cleaning the data.
+
 calculate_metrics(self): Calculates various performance metrics.
+
 get_top_100_players(self, metric_index): Returns the top 100 players for a given metric.
+
 print_results(self): Prints the top 100 players for each metric.
 
 
